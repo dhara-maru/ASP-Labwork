@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asplabs\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|e:\\asplabs\\lab3\\lab3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B542B6-5EAF-4A81-93AA-74BBFA7086B4}|lab3\\lab3.csproj|solutionrelative:lab3\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\Salary.cs",
+              "RelativeDocumentMoniker": "lab3\\Salary.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\Salary.cs",
+              "RelativeToolTip": "lab3\\Salary.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:40:27.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\BankAccount.cs",
+              "RelativeDocumentMoniker": "lab3\\BankAccount.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\BankAccount.cs",
+              "RelativeToolTip": "lab3\\BankAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:20:50.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\Hospital.cs",
+              "RelativeDocumentMoniker": "lab3\\Hospital.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\Hospital.cs",
+              "RelativeToolTip": "lab3\\Hospital.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:07:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RBI.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\RBI.cs",
+              "RelativeDocumentMoniker": "lab3\\RBI.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\RBI.cs",
+              "RelativeToolTip": "lab3\\RBI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:58:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Area.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\Area.cs",
+              "RelativeDocumentMoniker": "lab3\\Area.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\Area.cs",
+              "RelativeToolTip": "lab3\\Area.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:54:26.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\Addition.cs",
+              "RelativeDocumentMoniker": "lab3\\Addition.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\Addition.cs",
+              "RelativeToolTip": "lab3\\Addition.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:48:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asplabs\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "E:\\asplabs\\lab3\\lab3\\Program.cs*",
+              "RelativeToolTip": "lab3\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:46:18.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
